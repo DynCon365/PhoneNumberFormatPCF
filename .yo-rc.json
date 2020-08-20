@@ -1,0 +1,15 @@
+{
+  "generator-pcf": {
+    "promptValues": {
+      "controlNamespace": "DynamicConsulting",
+      "publisherPrefix": "dd",
+      "publisherName": "Dynamic Consulting"
+    },
+    "controlNamespace": "DynamicConsulting",
+    "controlName": "PhoneNumberFormatControl",
+    "controlTemplate": "Field",
+    "npmPackage": 2,
+    "publisherPrefix": "dd",
+    "publisherName": "Dynamic Consulting"
+  }
+}
